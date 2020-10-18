@@ -19,7 +19,7 @@ export default class RoomProvider extends Component {
            rooms,
            featuredRooms, 
            sortedRooms:rooms,
-           loading:false 
+           loading:false
         })
 
     }

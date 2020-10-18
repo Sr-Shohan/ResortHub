@@ -1,5 +1,4 @@
 import React from 'react';
-
 import './App.css';
 import Home from './pages/Home';
 import Rooms from './pages/Rooms';
@@ -19,7 +18,6 @@ function App() {
           <Route exact path="/rooms/:slug" component={SingleRoom}/>
           <Route exact path="/" component={AboutUs}/>
           <Route component={Error}/>   
-
           </Switch>
           
          </>
