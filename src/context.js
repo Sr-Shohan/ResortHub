@@ -8,7 +8,16 @@ export default class RoomProvider extends Component {
        room:[],
        sortedRooms:[],
        featuredRooms:[],
-       loading:true
+       loading:true,
+       type:'all',
+       capacity:1,
+       price :0,
+       maxPrice: 0, 
+       minPrice: 0 , 
+       maxSize:0,
+       minSize:0,
+       breakfast: false,
+       pets:false 
     };
     //getData 
 
@@ -59,4 +68,13 @@ export default class RoomProvider extends Component {
     }
 
 const RoomConsumer= RoomContext.Consumer;
+
+export function withRoomConsumer (Component){
+  return function ConsumerWrapper(props){
+    return  <RoomConsumer>
+    {value => <Component {...props} context={value}/>}
+    </RoomConsumer>
+  }
+}
+
 export {RoomProvider,RoomConsumer,RoomContext};
