@@ -25,7 +25,7 @@ export default [
       slug: "single-economy",
       type: "single",
       price: 100,
-      size: +8801752235,
+      size: 500,
       capacity: 1,
       pets: false,
       breakfast: true,
@@ -38,7 +38,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
@@ -81,8 +81,8 @@ export default [
       slug: "single-basic",
       type: "single",
       price: 150,
-      size: +8801752235,
-      capacity: 1,
+      size: 700,
+      capacity: 1000,
       pets: false,
       breakfast: false,
       featured: false,
@@ -95,7 +95,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
@@ -138,7 +138,7 @@ export default [
       slug: "single-standard",
       type: "single",
       price: 300,
-      size: +8801752235,
+      size: 1200,
       capacity: 1,
       pets: true,
       breakfast: false,
@@ -152,7 +152,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
@@ -195,7 +195,7 @@ export default [
       slug: "single-deluxe",
       type: "single",
       price: 300,
-      size: +8801752235,
+      size: 800,
       capacity: 1,
       pets: true,
       breakfast: true,
@@ -209,7 +209,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
@@ -252,7 +252,7 @@ export default [
       slug: "double-economy",
       type: "double",
       price: 200,
-      size: +8801752235,
+      size: 1500,
       capacity: 2,
       pets: false,
       breakfast: false,
@@ -266,7 +266,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
@@ -309,7 +309,7 @@ export default [
       slug: "double-basic",
       type: "double",
       price: 250,
-      size: +8801752235,
+      size: 1600,
       capacity: 2,
       pets: false,
       breakfast: false,
@@ -323,7 +323,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
@@ -366,7 +366,7 @@ export default [
       slug: "double-standard",
       type: "double",
       price: 300,
-      size: +8801752235,
+      size: 1400,
       capacity: 2,
       pets: true,
       breakfast: false,
@@ -380,7 +380,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
@@ -423,7 +423,7 @@ export default [
       slug: "double-deluxe",
       type: "double",
       price: 400,
-      size: +8801752235,
+      size: 2235,
       capacity: 2,
       pets: true,
       breakfast: true,
@@ -437,7 +437,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
@@ -480,7 +480,7 @@ export default [
       slug: "family-economy",
       type: "family",
       price: 300,
-      size: +8801752235,
+      size: 3500,
       capacity: 3,
       pets: false,
       breakfast: false,
@@ -494,7 +494,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
@@ -537,7 +537,7 @@ export default [
       slug: "family-basic",
       type: "family",
       price: 350,
-      size: +8801752235,
+      size: 3000,
       capacity: 4,
       pets: false,
       breakfast: false,
@@ -551,7 +551,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
@@ -594,7 +594,7 @@ export default [
       slug: "family-standard",
       type: "family",
       price: 400,
-      size: +8801752235,
+      size: 5000,
       capacity: 5,
       pets: true,
       breakfast: false,
@@ -608,7 +608,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
@@ -651,7 +651,7 @@ export default [
       slug: "family-deluxe",
       type: "family",
       price: 500,
-      size: +8801752235,
+      size: 3000,
       capacity: 6,
       pets: true,
       breakfast: true,
@@ -665,7 +665,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
@@ -708,7 +708,7 @@ export default [
       slug: "presidential-room",
       type: "presidential",
       price: 600,
-      size: +8801752235,
+      size: 5000,
       capacity: 10,
       pets: true,
       breakfast: true,
@@ -722,7 +722,7 @@ export default [
         "Complimentary refreshments",
         "Adequate safety/security",
         "Internet",
-        "Comfortable beds"
+        "Phone No: +8801785-306608"
       ],
       images: [
         {
